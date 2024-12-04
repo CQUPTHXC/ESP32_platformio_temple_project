@@ -1,0 +1,18 @@
+# 编译PlatformIO项目的github action配置
+name: Build PlatformIO project
+
+on: [push]  # 触发条件，这里是代码被推送到仓库时
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # 运行环境，这里是最新的Ubuntu系统
+
+    steps:
+    - name: Checkout code  # 检出代码
+      uses: actions/checkout@v2
+
+    - name: Setup PlatformIO  # 设置PlatformIO
+      uses: n-vr/setup-platformio-action@v1
+
+    - name: Build PlatformIO project  # 构建PlatformIO项目
+      run: pio run
