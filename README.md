@@ -1,6 +1,6 @@
 # ESP32_platformio_temple_project
 
-![编译标志](https://github.com/CQUPTHXC/ESP32_platformio_temple_project/actions/workflows/build project.yml/badge.svg)
+![编译标志](https://github.com/CQUPTHXC/ESP32_platformio_temple_project/actions/workflows/buildproject.yml/badge.svg)
 
 HXC战队标准ESP32 PlatformIo项目模板工程
 # 如何使用
