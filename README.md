@@ -51,13 +51,20 @@ HXC战队标准ESP32 PlatformIo项目模板工程
 
 ## src 文件夹
 
-这里是您的主要代码文件所在的位置。通常会包含main.cpp或其他源文件，具体取决于您使用的编程语言。
+主要代码文件所在的位置。通常会包含main.cpp或其他源文件
 
-## platformio.ini
+### main.cpp
+程序从这里开始
+
+## **platformio.ini**
 
 这个文件是PlatformIO的配置文件，包含了项目的配置，包括硬件平台、编译选项、库管理等。
+
+# LICENSE
+开源协议，该项目使用MIT协议，如果基于该模板产生其他开源项目注意替换开源协议和版权归属
 
 ## .gitignore
 列出在版本控制中需要忽略的文件或目录。
 
-
+## merge_bins.py
+用于合并bin文件的后处理脚本
