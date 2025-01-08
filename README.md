@@ -12,11 +12,11 @@ HXC战队标准ESP32 PlatformIo项目模板工程
    
     ![alt text](.github/img/image.png)
 
-    2.芯片型号
+    2. 芯片型号
 
     ![alt text](.github/img/image-1.png)
     
-    3.其他选项
+    3. 其他选项
 
 # 文件目录
 
