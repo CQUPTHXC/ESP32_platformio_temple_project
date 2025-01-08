@@ -1,6 +1,6 @@
 # ESP32_platformio_temple_project
 
-![build project](./actions/workflows/build project.yml/badge.svg)
+![build project](.github/workflows/build project.yml/badge.svg)
 
 HXC战队标准ESP32 PlatformIo项目模板工程
 # 如何使用
