@@ -1,5 +1,6 @@
 # ESP32_platformio_temple_project
 
+<!-- 替换为你的项目地址才能正确显示编译CI/CD标志 -->
 ![编译标志](https://github.com/CQUPTHXC/ESP32_platformio_temple_project/actions/workflows/buildproject.yml/badge.svg)
 
 HXC战队标准ESP32 PlatformIo项目模板工程
